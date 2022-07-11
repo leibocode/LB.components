@@ -1,0 +1,10 @@
+C:\Users\lb\source\repos\MS.Cloud.API\LB.Consul\bin\Debug\netcoreapp3.1\LB.Consul.deps.json
+C:\Users\lb\source\repos\MS.Cloud.API\LB.Consul\bin\Debug\netcoreapp3.1\LB.Consul.dll
+C:\Users\lb\source\repos\MS.Cloud.API\LB.Consul\bin\Debug\netcoreapp3.1\LB.Consul.pdb
+C:\Users\lb\source\repos\MS.Cloud.API\LB.Consul\obj\Debug\netcoreapp3.1\LB.Consul.csproj.AssemblyReference.cache
+C:\Users\lb\source\repos\MS.Cloud.API\LB.Consul\obj\Debug\netcoreapp3.1\LB.Consul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lb\source\repos\MS.Cloud.API\LB.Consul\obj\Debug\netcoreapp3.1\LB.Consul.AssemblyInfoInputs.cache
+C:\Users\lb\source\repos\MS.Cloud.API\LB.Consul\obj\Debug\netcoreapp3.1\LB.Consul.AssemblyInfo.cs
+C:\Users\lb\source\repos\MS.Cloud.API\LB.Consul\obj\Debug\netcoreapp3.1\LB.Consul.csproj.CoreCompileInputs.cache
+C:\Users\lb\source\repos\MS.Cloud.API\LB.Consul\obj\Debug\netcoreapp3.1\LB.Consul.dll
+C:\Users\lb\source\repos\MS.Cloud.API\LB.Consul\obj\Debug\netcoreapp3.1\LB.Consul.pdb

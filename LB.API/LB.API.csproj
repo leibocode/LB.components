@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="LB.AspNetCore" Version="1.0.0.7" />
+    <PackageReference Include="LB.Execl" Version="1.0.0" />
+    <PackageReference Include="LB.Swagger" Version="1.0.0.3" />
+  </ItemGroup>
+
+
+</Project>

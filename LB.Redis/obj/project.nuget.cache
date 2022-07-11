@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "34vvTuNbD6+zUPFwLHaY0TIsKvJ3hJT0L2SNV08EXpnjihhSgTGwctRrFsCx3aZAERYhl4s/3/YnPuIQbJL8GQ==",
+  "success": true,
+  "projectFilePath": "E:\\工作-杰羽\\LB.components\\LB.Redis\\LB.Redis.csproj",
+  "expectedPackageFiles": [
+    "D:\\Program Files (x86)\\Nuget\\.nuget\\freeredis\\0.5.4\\freeredis.0.5.4.nupkg.sha512",
+    "D:\\Program Files (x86)\\Nuget\\.nuget\\lb.mis.core\\1.0.0.5\\lb.mis.core.1.0.0.5.nupkg.sha512",
+    "D:\\Program Files (x86)\\Nuget\\.nuget\\microsoft.extensions.configuration\\3.1.26\\microsoft.extensions.configuration.3.1.26.nupkg.sha512",
+    "D:\\Program Files (x86)\\Nuget\\.nuget\\microsoft.extensions.configuration.abstractions\\3.1.26\\microsoft.extensions.configuration.abstractions.3.1.26.nupkg.sha512",
+    "D:\\Program Files (x86)\\Nuget\\.nuget\\microsoft.extensions.configuration.binder\\3.1.26\\microsoft.extensions.configuration.binder.3.1.26.nupkg.sha512",
+    "D:\\Program Files (x86)\\Nuget\\.nuget\\microsoft.extensions.dependencyinjection.abstractions\\3.1.26\\microsoft.extensions.dependencyinjection.abstractions.3.1.26.nupkg.sha512",
+    "D:\\Program Files (x86)\\Nuget\\.nuget\\microsoft.extensions.logging.abstractions\\3.1.26\\microsoft.extensions.logging.abstractions.3.1.26.nupkg.sha512",
+    "D:\\Program Files (x86)\\Nuget\\.nuget\\microsoft.extensions.options\\3.1.26\\microsoft.extensions.options.3.1.26.nupkg.sha512",
+    "D:\\Program Files (x86)\\Nuget\\.nuget\\microsoft.extensions.options.configurationextensions\\3.1.26\\microsoft.extensions.options.configurationextensions.3.1.26.nupkg.sha512",
+    "D:\\Program Files (x86)\\Nuget\\.nuget\\microsoft.extensions.primitives\\3.1.26\\microsoft.extensions.primitives.3.1.26.nupkg.sha512"
+  ],
+  "logs": []
+}

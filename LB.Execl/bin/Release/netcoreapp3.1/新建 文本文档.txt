@@ -1,0 +1,4 @@
+dotnet nuget push ./publish/LB.Execl.1.0.0.nupkg -k oy2ldjb6b2eteivowgua4imhgwjo2dwuvkxpj3scgduj4i -s https://api.nuget.org/v3/index.json --skip-duplicate
+
+keys
+oy2ldjb6b2eteivowgua4imhgwjo2dwuvkxpj3scgduj4i

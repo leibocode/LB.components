@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "/MasCpXfg51yVwG0Ec39Dhh74WCnlBc4Xaj090lSlNWNLuYPHuXaKvNc0PfR0+2ebel1JSm+Up4/E50aKA/RGQ==",
+  "success": true,
+  "projectFilePath": "E:\\工作-杰羽\\LB.components\\LB.Execl\\LB.Execl.csproj",
+  "expectedPackageFiles": [
+    "D:\\Program Files (x86)\\Nuget\\.nuget\\lb.mis.core\\1.0.0.5\\lb.mis.core.1.0.0.5.nupkg.sha512",
+    "D:\\Program Files (x86)\\Nuget\\.nuget\\microsoft.extensions.configuration.abstractions\\3.1.4\\microsoft.extensions.configuration.abstractions.3.1.4.nupkg.sha512",
+    "D:\\Program Files (x86)\\Nuget\\.nuget\\microsoft.extensions.dependencyinjection.abstractions\\3.1.4\\microsoft.extensions.dependencyinjection.abstractions.3.1.4.nupkg.sha512",
+    "D:\\Program Files (x86)\\Nuget\\.nuget\\microsoft.extensions.primitives\\3.1.4\\microsoft.extensions.primitives.3.1.4.nupkg.sha512",
+    "D:\\Program Files (x86)\\Nuget\\.nuget\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "D:\\Program Files (x86)\\Nuget\\.nuget\\microsoft.win32.systemevents\\4.5.0\\microsoft.win32.systemevents.4.5.0.nupkg.sha512",
+    "D:\\Program Files (x86)\\Nuget\\.nuget\\npoi\\2.5.1\\npoi.2.5.1.nupkg.sha512",
+    "D:\\Program Files (x86)\\Nuget\\.nuget\\portable.bouncycastle\\1.8.6\\portable.bouncycastle.1.8.6.nupkg.sha512",
+    "D:\\Program Files (x86)\\Nuget\\.nuget\\sharpziplib\\1.2.0\\sharpziplib.1.2.0.nupkg.sha512",
+    "D:\\Program Files (x86)\\Nuget\\.nuget\\system.configuration.configurationmanager\\4.5.0\\system.configuration.configurationmanager.4.5.0.nupkg.sha512",
+    "D:\\Program Files (x86)\\Nuget\\.nuget\\system.drawing.common\\4.5.0\\system.drawing.common.4.5.0.nupkg.sha512",
+    "D:\\Program Files (x86)\\Nuget\\.nuget\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "D:\\Program Files (x86)\\Nuget\\.nuget\\system.security.cryptography.protecteddata\\4.5.0\\system.security.cryptography.protecteddata.4.5.0.nupkg.sha512",
+    "D:\\Program Files (x86)\\Nuget\\.nuget\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
+    "D:\\Program Files (x86)\\Nuget\\.nuget\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

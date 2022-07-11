@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FreeRedis" Version="0.5.4" />
+    <PackageReference Include="LB.Mis.Core" Version="1.0.0.5" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="3.1.26" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="3.1.26" />
+    <PackageReference Include="Microsoft.Extensions.Options" Version="3.1.26" />
+    <PackageReference Include="Microsoft.Extensions.Options.ConfigurationExtensions" Version="3.1.26" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Options\" />
+  </ItemGroup>
+
+</Project>

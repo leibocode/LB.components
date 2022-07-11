@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "5kPThgXyPbM3/QmcZXpfEavrERrmop0hvpoVkJbsVjGeFGXqeu7rHTENr9jh1rvhyHUJyEEig/HsXJyvzqyapg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lb\\source\\repos\\MS.Cloud.API\\MS.Cloud.Redis\\MS.Cloud.Redis.csproj",
+  "expectedPackageFiles": [
+    "D:\\Program Files (x86)\\Nuget\\.nuget\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "D:\\Program Files (x86)\\Nuget\\.nuget\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "D:\\Program Files (x86)\\Nuget\\.nuget\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "D:\\Program Files (x86)\\Nuget\\.nuget\\pipelines.sockets.unofficial\\2.2.2\\pipelines.sockets.unofficial.2.2.2.nupkg.sha512",
+    "D:\\Program Files (x86)\\Nuget\\.nuget\\stackexchange.redis\\2.6.48\\stackexchange.redis.2.6.48.nupkg.sha512",
+    "D:\\Program Files (x86)\\Nuget\\.nuget\\system.configuration.configurationmanager\\5.0.0\\system.configuration.configurationmanager.5.0.0.nupkg.sha512",
+    "D:\\Program Files (x86)\\Nuget\\.nuget\\system.diagnostics.performancecounter\\5.0.0\\system.diagnostics.performancecounter.5.0.0.nupkg.sha512",
+    "D:\\Program Files (x86)\\Nuget\\.nuget\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512",
+    "D:\\Program Files (x86)\\Nuget\\.nuget\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512",
+    "D:\\Program Files (x86)\\Nuget\\.nuget\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "D:\\Program Files (x86)\\Nuget\\.nuget\\system.security.cryptography.protecteddata\\5.0.0\\system.security.cryptography.protecteddata.5.0.0.nupkg.sha512",
+    "D:\\Program Files (x86)\\Nuget\\.nuget\\system.security.permissions\\5.0.0\\system.security.permissions.5.0.0.nupkg.sha512",
+    "D:\\Program Files (x86)\\Nuget\\.nuget\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "D:\\Program Files (x86)\\Nuget\\.nuget\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
