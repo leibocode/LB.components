@@ -1,0 +1,10 @@
+E:\project\LB.components\LB.Redis\bin\Debug\netcoreapp3.1\LB.Redis.deps.json
+E:\project\LB.components\LB.Redis\bin\Debug\netcoreapp3.1\LB.Redis.dll
+E:\project\LB.components\LB.Redis\bin\Debug\netcoreapp3.1\LB.Redis.pdb
+E:\project\LB.components\LB.Redis\obj\Debug\netcoreapp3.1\LB.Redis.csproj.AssemblyReference.cache
+E:\project\LB.components\LB.Redis\obj\Debug\netcoreapp3.1\LB.Redis.GeneratedMSBuildEditorConfig.editorconfig
+E:\project\LB.components\LB.Redis\obj\Debug\netcoreapp3.1\LB.Redis.AssemblyInfoInputs.cache
+E:\project\LB.components\LB.Redis\obj\Debug\netcoreapp3.1\LB.Redis.AssemblyInfo.cs
+E:\project\LB.components\LB.Redis\obj\Debug\netcoreapp3.1\LB.Redis.csproj.CoreCompileInputs.cache
+E:\project\LB.components\LB.Redis\obj\Debug\netcoreapp3.1\LB.Redis.dll
+E:\project\LB.components\LB.Redis\obj\Debug\netcoreapp3.1\LB.Redis.pdb

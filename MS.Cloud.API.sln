@@ -7,15 +7,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MS.Cloud.API", "MS.Cloud.AP
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LB.Redis", "LB.Redis\LB.Redis.csproj", "{6CC73904-88C8-44CE-BBAE-68E159955F51}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LB.Consul", "LB.Consul\LB.Consul.csproj", "{AFC54182-7184-42BC-BDA0-D49999DE454C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LB.Consul", "LB.Consul\LB.Consul.csproj", "{AFC54182-7184-42BC-BDA0-D49999DE454C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LB.Validation", "LB.Validation\LB.Validation.csproj", "{47CA01B2-002A-4A33-BA1A-4ADA6C593707}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LB.Validation", "LB.Validation\LB.Validation.csproj", "{47CA01B2-002A-4A33-BA1A-4ADA6C593707}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LB.Execl", "LB.Execl\LB.Execl.csproj", "{1ACF29C2-B3E4-463D-8B33-C1F8720DCB24}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LB.Execl", "LB.Execl\LB.Execl.csproj", "{1ACF29C2-B3E4-463D-8B33-C1F8720DCB24}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LB.API", "LB.API\LB.API.csproj", "{FEB2626E-12D5-4488-B2A3-F09D716E4413}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LB.API", "LB.API\LB.API.csproj", "{FEB2626E-12D5-4488-B2A3-F09D716E4413}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LB.SqlSugar", "LB.SqlSugar\LB.SqlSugar.csproj", "{48139BFB-9C5F-43CB-9C70-BC00F18A3AE9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Samples", "Samples", "{FCE0A1AD-468A-4CAE-BAFE-F73B0967EAAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tes.API", "Tes.API\Tes.API.csproj", "{CDF7391B-F14B-491B-A05C-13199CE222FC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,9 +55,16 @@ Global
 		{48139BFB-9C5F-43CB-9C70-BC00F18A3AE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{48139BFB-9C5F-43CB-9C70-BC00F18A3AE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{48139BFB-9C5F-43CB-9C70-BC00F18A3AE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDF7391B-F14B-491B-A05C-13199CE222FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDF7391B-F14B-491B-A05C-13199CE222FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDF7391B-F14B-491B-A05C-13199CE222FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDF7391B-F14B-491B-A05C-13199CE222FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CDF7391B-F14B-491B-A05C-13199CE222FC} = {FCE0A1AD-468A-4CAE-BAFE-F73B0967EAAC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {76C105DC-07FD-4161-824E-A324C118BF49}

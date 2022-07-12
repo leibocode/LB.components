@@ -1,28 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "E:\\工作-杰羽\\LB.components\\LB.Redis\\LB.Redis.csproj": {}
+    "E:\\project\\LB.components\\LB.Redis\\LB.Redis.csproj": {}
   },
   "projects": {
-    "E:\\工作-杰羽\\LB.components\\LB.Redis\\LB.Redis.csproj": {
+    "E:\\project\\LB.components\\LB.Redis\\LB.Redis.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\工作-杰羽\\LB.components\\LB.Redis\\LB.Redis.csproj",
+        "projectUniqueName": "E:\\project\\LB.components\\LB.Redis\\LB.Redis.csproj",
         "projectName": "LB.Redis",
-        "projectPath": "E:\\工作-杰羽\\LB.components\\LB.Redis\\LB.Redis.csproj",
-        "packagesPath": "D:\\Program Files (x86)\\Nuget\\.nuget",
-        "outputPath": "E:\\工作-杰羽\\LB.components\\LB.Redis\\obj\\",
+        "projectPath": "E:\\project\\LB.components\\LB.Redis\\LB.Redis.csproj",
+        "packagesPath": "C:\\Users\\进价、\\.nuget\\packages\\",
+        "outputPath": "E:\\project\\LB.components\\LB.Redis\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\lb\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\NuGet.Config"
+          "C:\\Users\\进价、\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

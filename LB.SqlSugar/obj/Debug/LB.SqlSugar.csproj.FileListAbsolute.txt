@@ -1,0 +1,11 @@
+E:\project\LB.components\LB.SqlSugar\bin\Debug\LB.SqlSugar.dll.config
+E:\project\LB.components\LB.SqlSugar\bin\Debug\LB.SqlSugar.dll
+E:\project\LB.components\LB.SqlSugar\bin\Debug\LB.SqlSugar.pdb
+E:\project\LB.components\LB.SqlSugar\bin\Debug\Newtonsoft.Json.dll
+E:\project\LB.components\LB.SqlSugar\bin\Debug\SqlSugar.dll
+E:\project\LB.components\LB.SqlSugar\bin\Debug\Newtonsoft.Json.xml
+E:\project\LB.components\LB.SqlSugar\obj\Debug\LB.SqlSugar.csproj.AssemblyReference.cache
+E:\project\LB.components\LB.SqlSugar\obj\Debug\LB.SqlSugar.csproj.CoreCompileInputs.cache
+E:\project\LB.components\LB.SqlSugar\obj\Debug\LB.SqlSugar.csproj.CopyComplete
+E:\project\LB.components\LB.SqlSugar\obj\Debug\LB.SqlSugar.dll
+E:\project\LB.components\LB.SqlSugar\obj\Debug\LB.SqlSugar.pdb

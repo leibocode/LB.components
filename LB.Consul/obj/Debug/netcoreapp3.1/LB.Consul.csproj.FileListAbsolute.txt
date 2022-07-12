@@ -8,3 +8,13 @@ C:\Users\lb\source\repos\MS.Cloud.API\LB.Consul\obj\Debug\netcoreapp3.1\LB.Consu
 C:\Users\lb\source\repos\MS.Cloud.API\LB.Consul\obj\Debug\netcoreapp3.1\LB.Consul.csproj.CoreCompileInputs.cache
 C:\Users\lb\source\repos\MS.Cloud.API\LB.Consul\obj\Debug\netcoreapp3.1\LB.Consul.dll
 C:\Users\lb\source\repos\MS.Cloud.API\LB.Consul\obj\Debug\netcoreapp3.1\LB.Consul.pdb
+E:\project\LB.components\LB.Consul\bin\Debug\netcoreapp3.1\LB.Consul.deps.json
+E:\project\LB.components\LB.Consul\bin\Debug\netcoreapp3.1\LB.Consul.dll
+E:\project\LB.components\LB.Consul\bin\Debug\netcoreapp3.1\LB.Consul.pdb
+E:\project\LB.components\LB.Consul\obj\Debug\netcoreapp3.1\LB.Consul.csproj.AssemblyReference.cache
+E:\project\LB.components\LB.Consul\obj\Debug\netcoreapp3.1\LB.Consul.GeneratedMSBuildEditorConfig.editorconfig
+E:\project\LB.components\LB.Consul\obj\Debug\netcoreapp3.1\LB.Consul.AssemblyInfoInputs.cache
+E:\project\LB.components\LB.Consul\obj\Debug\netcoreapp3.1\LB.Consul.AssemblyInfo.cs
+E:\project\LB.components\LB.Consul\obj\Debug\netcoreapp3.1\LB.Consul.csproj.CoreCompileInputs.cache
+E:\project\LB.components\LB.Consul\obj\Debug\netcoreapp3.1\LB.Consul.dll
+E:\project\LB.components\LB.Consul\obj\Debug\netcoreapp3.1\LB.Consul.pdb

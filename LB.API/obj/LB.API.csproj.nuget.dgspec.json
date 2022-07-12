@@ -1,28 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "E:\\工作-杰羽\\LB.components\\LB.API\\LB.API.csproj": {}
+    "E:\\project\\LB.components\\LB.API\\LB.API.csproj": {}
   },
   "projects": {
-    "E:\\工作-杰羽\\LB.components\\LB.API\\LB.API.csproj": {
+    "E:\\project\\LB.components\\LB.API\\LB.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\工作-杰羽\\LB.components\\LB.API\\LB.API.csproj",
+        "projectUniqueName": "E:\\project\\LB.components\\LB.API\\LB.API.csproj",
         "projectName": "LB.API",
-        "projectPath": "E:\\工作-杰羽\\LB.components\\LB.API\\LB.API.csproj",
-        "packagesPath": "D:\\Program Files (x86)\\Nuget\\.nuget",
-        "outputPath": "E:\\工作-杰羽\\LB.components\\LB.API\\obj\\",
+        "projectPath": "E:\\project\\LB.components\\LB.API\\LB.API.csproj",
+        "packagesPath": "C:\\Users\\进价、\\.nuget\\packages\\",
+        "outputPath": "E:\\project\\LB.components\\LB.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\lb\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\NuGet.Config"
+          "C:\\Users\\进价、\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

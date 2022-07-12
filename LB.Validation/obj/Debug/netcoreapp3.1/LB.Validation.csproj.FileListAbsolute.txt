@@ -1,0 +1,10 @@
+E:\project\LB.components\LB.Validation\bin\Debug\netcoreapp3.1\LB.Validation.deps.json
+E:\project\LB.components\LB.Validation\bin\Debug\netcoreapp3.1\LB.Validation.dll
+E:\project\LB.components\LB.Validation\bin\Debug\netcoreapp3.1\LB.Validation.pdb
+E:\project\LB.components\LB.Validation\obj\Debug\netcoreapp3.1\LB.Validation.csproj.AssemblyReference.cache
+E:\project\LB.components\LB.Validation\obj\Debug\netcoreapp3.1\LB.Validation.GeneratedMSBuildEditorConfig.editorconfig
+E:\project\LB.components\LB.Validation\obj\Debug\netcoreapp3.1\LB.Validation.AssemblyInfoInputs.cache
+E:\project\LB.components\LB.Validation\obj\Debug\netcoreapp3.1\LB.Validation.AssemblyInfo.cs
+E:\project\LB.components\LB.Validation\obj\Debug\netcoreapp3.1\LB.Validation.csproj.CoreCompileInputs.cache
+E:\project\LB.components\LB.Validation\obj\Debug\netcoreapp3.1\LB.Validation.dll
+E:\project\LB.components\LB.Validation\obj\Debug\netcoreapp3.1\LB.Validation.pdb

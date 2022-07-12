@@ -1,0 +1,204 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LB.Redis/1.0.0": {
+        "dependencies": {
+          "FreeRedis": "0.5.4",
+          "LB.Mis.Core": "1.0.0.5",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "3.1.26",
+          "Microsoft.Extensions.Logging.Abstractions": "3.1.26",
+          "Microsoft.Extensions.Options": "3.1.26",
+          "Microsoft.Extensions.Options.ConfigurationExtensions": "3.1.26"
+        },
+        "runtime": {
+          "LB.Redis.dll": {}
+        }
+      },
+      "FreeRedis/0.5.4": {
+        "runtime": {
+          "lib/netstandard2.1/FreeRedis.dll": {
+            "assemblyVersion": "0.5.4.0",
+            "fileVersion": "0.5.4.0"
+          }
+        }
+      },
+      "LB.Mis.Core/1.0.0.5": {
+        "dependencies": {
+          "Microsoft.Extensions.Configuration.Abstractions": "3.1.26",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "3.1.26"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/MS.Cloud.Core.dll": {
+            "assemblyVersion": "1.0.0.1",
+            "fileVersion": "1.0.0.1"
+          }
+        }
+      },
+      "Microsoft.Extensions.Configuration/3.1.26": {
+        "dependencies": {
+          "Microsoft.Extensions.Configuration.Abstractions": "3.1.26"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.Configuration.dll": {
+            "assemblyVersion": "3.1.26.0",
+            "fileVersion": "3.100.2622.27302"
+          }
+        }
+      },
+      "Microsoft.Extensions.Configuration.Abstractions/3.1.26": {
+        "dependencies": {
+          "Microsoft.Extensions.Primitives": "3.1.26"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll": {
+            "assemblyVersion": "3.1.26.0",
+            "fileVersion": "3.100.2622.27302"
+          }
+        }
+      },
+      "Microsoft.Extensions.Configuration.Binder/3.1.26": {
+        "dependencies": {
+          "Microsoft.Extensions.Configuration": "3.1.26"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll": {
+            "assemblyVersion": "3.1.26.0",
+            "fileVersion": "3.100.2622.27302"
+          }
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/3.1.26": {
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "assemblyVersion": "3.1.26.0",
+            "fileVersion": "3.100.2622.27302"
+          }
+        }
+      },
+      "Microsoft.Extensions.Logging.Abstractions/3.1.26": {
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.dll": {
+            "assemblyVersion": "3.1.26.0",
+            "fileVersion": "3.100.2622.27302"
+          }
+        }
+      },
+      "Microsoft.Extensions.Options/3.1.26": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "3.1.26",
+          "Microsoft.Extensions.Primitives": "3.1.26"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.Options.dll": {
+            "assemblyVersion": "3.1.26.0",
+            "fileVersion": "3.100.2622.27302"
+          }
+        }
+      },
+      "Microsoft.Extensions.Options.ConfigurationExtensions/3.1.26": {
+        "dependencies": {
+          "Microsoft.Extensions.Configuration.Abstractions": "3.1.26",
+          "Microsoft.Extensions.Configuration.Binder": "3.1.26",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "3.1.26",
+          "Microsoft.Extensions.Options": "3.1.26"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.Options.ConfigurationExtensions.dll": {
+            "assemblyVersion": "3.1.26.0",
+            "fileVersion": "3.100.2622.27302"
+          }
+        }
+      },
+      "Microsoft.Extensions.Primitives/3.1.26": {
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.Primitives.dll": {
+            "assemblyVersion": "3.1.26.0",
+            "fileVersion": "3.100.2622.27302"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LB.Redis/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FreeRedis/0.5.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fwaMpM9rUGUf0Detvpx9+Rdp+DSScgQZBLyOTd/bgoLJFsw3t8tva2LN5QttAUY2BNA7ZmPe/dH0lJ97N+9eRA==",
+      "path": "freeredis/0.5.4",
+      "hashPath": "freeredis.0.5.4.nupkg.sha512"
+    },
+    "LB.Mis.Core/1.0.0.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-BnfPHzkqe8uwBWjmBGmdXWMxkJ6gzprAs0MPa7MMLG/SPEmUJem6Z+11N+VMQZOWmg9TWhaz6fi9OTXvbQCWYQ==",
+      "path": "lb.mis.core/1.0.0.5",
+      "hashPath": "lb.mis.core.1.0.0.5.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Configuration/3.1.26": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IYwggZG9uFjkNgYSRbeYV0VL0n4eSCFPBEnMKNZUkfer6CazmO2fCzH/Lg8YAQIY3xuOGQNVcpveXeqWBPyumw==",
+      "path": "microsoft.extensions.configuration/3.1.26",
+      "hashPath": "microsoft.extensions.configuration.3.1.26.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Configuration.Abstractions/3.1.26": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-CLRNGfBUy8PTWGw1DCpY007vrS0IyDuolkTL3zIPCiYnrPsNkU/2Tr9nYd7VMM/sp2giYB7+9NX+KMZryjFj5w==",
+      "path": "microsoft.extensions.configuration.abstractions/3.1.26",
+      "hashPath": "microsoft.extensions.configuration.abstractions.3.1.26.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Configuration.Binder/3.1.26": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5UaXZGeRC2zNAcDAdNqapnH5vUG47YsOEyKjN4lpCfpfuAKlZs0EYOWMEFD1w9wTkqp38Myaf30shuria/He1A==",
+      "path": "microsoft.extensions.configuration.binder/3.1.26",
+      "hashPath": "microsoft.extensions.configuration.binder.3.1.26.nupkg.sha512"
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/3.1.26": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IDBfhW0PeFIL1p0pA6T7QfbR9aLlPWQhmQM6xCClbqMxVQc2oVUsToULfi/ZyM5I1jmy4BfDwGW8bP8qyJU+IQ==",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/3.1.26",
+      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.3.1.26.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Logging.Abstractions/3.1.26": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-sCDtgEvfq0UhK6k9N7qCqvIsEud0T0eVu4UEW5G7urctFxRA8UUlcyrfFHH/k0tkEplZAv4EN8Xbj8j7BQNPhA==",
+      "path": "microsoft.extensions.logging.abstractions/3.1.26",
+      "hashPath": "microsoft.extensions.logging.abstractions.3.1.26.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Options/3.1.26": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3BWa1Zh1jTHsP3Et2IJwgzOJKQNgXYjPQcZksun4gs4r3BygAwewmpKtFN8/3SKqgQj5pxFxZ6fiDV6fbH3n9Q==",
+      "path": "microsoft.extensions.options/3.1.26",
+      "hashPath": "microsoft.extensions.options.3.1.26.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Options.ConfigurationExtensions/3.1.26": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/LOiTFEXcKxz8QdADvQyrMUsn+IYLLu8b2Idxz/E/iyQYK19SxjWGkS21ND6G/tnV26izhHf+PAjAkjCTMQaZg==",
+      "path": "microsoft.extensions.options.configurationextensions/3.1.26",
+      "hashPath": "microsoft.extensions.options.configurationextensions.3.1.26.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Primitives/3.1.26": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-muKJFTVxcBaR+FBHS867moiQpRF17oKMt5vw5MxnnzVh6oq3p0A/PD/A09hZUQ1qAzJb4XGAQYjBdNyB2Vy8tQ==",
+      "path": "microsoft.extensions.primitives/3.1.26",
+      "hashPath": "microsoft.extensions.primitives.3.1.26.nupkg.sha512"
+    }
+  }
+}
