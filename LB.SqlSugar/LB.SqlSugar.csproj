@@ -52,11 +52,11 @@
     <Compile Include="Aspect\TransactionalAttribute.cs" />
     <Compile Include="DbHelper.cs" />
     <Compile Include="Extensions\SugarQueryableExtensions.cs" />
-    <Compile Include="ISugarRepository.cs" />
+    <Compile Include="Abstractions\ISugarRepository.cs" />
     <Compile Include="Options\SugarFactoryOptions.cs" />
     <Compile Include="Paged\PagedResult.cs" />
     <Compile Include="Services\UnitOfWork.cs" />
-    <Compile Include="SugarRepository.cs" />
+    <Compile Include="Services\SugarRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -6,6 +6,7 @@ using MS.Cloud.AspNetCore.Models;
 using LB.API.Models;
 using System.Collections.Generic;
 using System.IO;
+using LB.Appliation.Dtos;
 
 namespace LB.API.Controllers
 {
@@ -20,7 +21,7 @@ namespace LB.API.Controllers
             _excelExportManager = excelExportManager;
         }
 
-        [HttpGet]
+        [HttpGet("execl")]
         public async Task<IActionResult> ExportExecl()
         {
             var list = new List<ExportTestClasss>()
@@ -84,6 +85,19 @@ namespace LB.API.Controllers
                     FileDownloadName = "test.xlsx"
                 };
             }
+        }
+
+        [HttpGet]
+        public async Task<ApiResult> GetList()
+        {
+            return ApiResult.Ok();
+        }
+
+        [HttpPost]
+        public async Task<ApiResult> CreateUser([FromBody] UserDto dto)
+        {
+
+            return ApiResult.Ok();
         }
     }
 }

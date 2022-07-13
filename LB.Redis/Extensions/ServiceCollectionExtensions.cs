@@ -7,6 +7,6 @@ namespace LB.Redis.Extensions
 {
     public static class ServiceCollectionExtensions
     {
-     
+        
     }
 }

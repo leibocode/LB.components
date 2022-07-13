@@ -15,6 +15,6 @@ namespace LB.Consul.Options
 
         public string Endpoint { get; set; }
 
-        public ServiceType ServiceType { get; set; } = (ServiceType)0;
+        public ServiceType ServiceType { get; set; } = 0;
     }
 }

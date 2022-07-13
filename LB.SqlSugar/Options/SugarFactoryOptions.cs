@@ -8,5 +8,6 @@ namespace LB.SqlSugar.Options
 {
     public class SugarFactoryOptions
     {
+
     }
 }

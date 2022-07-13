@@ -1,0 +1,10 @@
+E:\project\LB.components\LB.Appliation\bin\Debug\netcoreapp3.1\LB.Appliation.deps.json
+E:\project\LB.components\LB.Appliation\bin\Debug\netcoreapp3.1\LB.Appliation.dll
+E:\project\LB.components\LB.Appliation\bin\Debug\netcoreapp3.1\LB.Appliation.pdb
+E:\project\LB.components\LB.Appliation\obj\Debug\netcoreapp3.1\LB.Appliation.csproj.AssemblyReference.cache
+E:\project\LB.components\LB.Appliation\obj\Debug\netcoreapp3.1\LB.Appliation.GeneratedMSBuildEditorConfig.editorconfig
+E:\project\LB.components\LB.Appliation\obj\Debug\netcoreapp3.1\LB.Appliation.AssemblyInfoInputs.cache
+E:\project\LB.components\LB.Appliation\obj\Debug\netcoreapp3.1\LB.Appliation.AssemblyInfo.cs
+E:\project\LB.components\LB.Appliation\obj\Debug\netcoreapp3.1\LB.Appliation.csproj.CoreCompileInputs.cache
+E:\project\LB.components\LB.Appliation\obj\Debug\netcoreapp3.1\LB.Appliation.dll
+E:\project\LB.components\LB.Appliation\obj\Debug\netcoreapp3.1\LB.Appliation.pdb

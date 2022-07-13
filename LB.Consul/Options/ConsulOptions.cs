@@ -18,6 +18,5 @@ namespace LB.Consul.Options
 
         public TimeSpan? RetryDelay { get; set; } = new TimeSpan?(TimeSpan.FromSeconds(15.0));
 
-
     }
 }

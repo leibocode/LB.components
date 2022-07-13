@@ -59,15 +59,15 @@ namespace LB.Consul.Extensions
                     else
                     {
                         IEnumerable<Uri> source = addresses.Select(p => new Uri(p));
-                        uri2 = source != null ? source.FirstOrDefault<Uri>() : (Uri)null;
+                        uri2 = source != null ? source.FirstOrDefault() : null;
                     }
                 }
                 uri1 = uri2;
             }
-            if (uri1 != (Uri)null)
+            if (uri1 != null)
             {
-                Console.WriteLine(string.Format("Address:{0}", (object)uri1));
-                Uri healthCheckUri = (Uri)null;
+                Console.WriteLine(string.Format("Address:{0}", uri1));
+                Uri healthCheckUri = null;
                 if (!string.IsNullOrEmpty(options.HealthCheck))
                 {
                     Console.WriteLine(string.Format("HealthCheckUrl:{0}{1}", uri1,options.HealthCheck));
@@ -77,7 +77,7 @@ namespace LB.Consul.Extensions
                 {
                     "urlprefix-/" + options.ServiceName
                 });
-                applicationLifetime.ApplicationStopping.Register((Action)(() => app.RemoveTenant(registryInformation.Id)));
+                applicationLifetime.ApplicationStopping.Register(() => app.RemoveTenant(registryInformation.Id));
             }
             return app;
         }
