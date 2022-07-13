@@ -159,3 +159,4 @@ E:\project\LB.components\LB.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netsta
 E:\project\LB.components\LB.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
 E:\project\LB.components\LB.API\bin\Debug\netcoreapp3.1\LB.Appliation.dll
 E:\project\LB.components\LB.API\bin\Debug\netcoreapp3.1\LB.Appliation.pdb
+E:\project\LB.components\LB.API\bin\Debug\netcoreapp3.1\LB.Validation.dll

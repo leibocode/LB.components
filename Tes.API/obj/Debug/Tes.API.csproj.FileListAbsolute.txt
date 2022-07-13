@@ -49,3 +49,8 @@ E:\project\LB.components\Tes.API\obj\Debug\Tes.API.csproj.CoreCompileInputs.cach
 E:\project\LB.components\Tes.API\obj\Debug\Tes.API.csproj.CopyComplete
 E:\project\LB.components\Tes.API\obj\Debug\Tes.API.dll
 E:\project\LB.components\Tes.API\obj\Debug\Tes.API.pdb
+E:\project\LB.components\Tes.API\bin\Autofac.dll
+E:\project\LB.components\Tes.API\bin\Autofac.Integration.WebApi.dll
+E:\project\LB.components\Tes.API\bin\Autofac.xml
+E:\project\LB.components\Tes.API\bin\Autofac.Integration.WebApi.pdb
+E:\project\LB.components\Tes.API\bin\Autofac.Integration.WebApi.xml

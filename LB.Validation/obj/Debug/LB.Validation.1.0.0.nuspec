@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>LB.Validation</id>
+    <version>1.0.0</version>
+    <authors>LB.Validation</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="FluentValidation.AspNetCore" version="11.1.2" exclude="Build,Analyzers" />
+        <dependency id="LB.Mis.Core" version="1.0.0.5" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Mvc.Core" version="2.2.5" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\project\LB.components\LB.Validation\bin\Debug\netcoreapp3.1\LB.Validation.dll" target="lib\netcoreapp3.1\LB.Validation.dll" />
+  </files>
+</package>

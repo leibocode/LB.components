@@ -62,6 +62,10 @@
             "LB.Swagger": {
               "target": "Package",
               "version": "[1.0.0.3, )"
+            },
+            "LB.Validation": {
+              "target": "Package",
+              "version": "[1.0.0, )"
             }
           },
           "imports": [
@@ -124,6 +128,10 @@
             "FluentValidation": {
               "target": "Package",
               "version": "[11.1.0, )"
+            },
+            "LB.AutoMapper": {
+              "target": "Package",
+              "version": "[1.0.0.5, )"
             }
           },
           "imports": [

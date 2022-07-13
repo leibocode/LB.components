@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
@@ -10,6 +10,7 @@
     <PackageReference Include="LB.Execl" Version="1.0.0" />
     <PackageReference Include="LB.SqlSugarCore" Version="1.0.9" />
     <PackageReference Include="LB.Swagger" Version="1.0.0.3" />
+    <PackageReference Include="LB.Validation" Version="1.0.0" />
   </ItemGroup>
 
   <ItemGroup>

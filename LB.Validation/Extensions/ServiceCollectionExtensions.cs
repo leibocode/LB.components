@@ -55,7 +55,7 @@ namespace LB.Validation.Extensions
             return services;
         }
 
-        public static IServiceCollection AddConsul(
+        public static IServiceCollection AddFluentValidation(
          this IMsCloudBuilder builder,string section)
         {
             return builder.Services.AddFluentValidation(section);

@@ -42,6 +42,10 @@
             "FluentValidation": {
               "target": "Package",
               "version": "[11.1.0, )"
+            },
+            "LB.AutoMapper": {
+              "target": "Package",
+              "version": "[1.0.0.5, )"
             }
           },
           "imports": [

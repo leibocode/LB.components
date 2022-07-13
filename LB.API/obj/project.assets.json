@@ -64,6 +64,32 @@
           "lib/netstandard2.1/AspectCore.Extensions.Reflection.dll": {}
         }
       },
+      "AutoMapper/9.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.CSharp": "4.5.0",
+          "System.Reflection.Emit": "4.3.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/AutoMapper.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/AutoMapper.dll": {}
+        }
+      },
+      "AutoMapper.Extensions.Microsoft.DependencyInjection/7.0.0": {
+        "type": "package",
+        "dependencies": {
+          "AutoMapper": "9.0.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "2.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll": {}
+        }
+      },
       "BouncyCastle.NetCore/1.8.3": {
         "type": "package",
         "dependencies": {
@@ -180,6 +206,21 @@
           "lib/netcoreapp3.1/MS.Cloud.AspNetCore.dll": {}
         }
       },
+      "LB.AutoMapper/1.0.0.5": {
+        "type": "package",
+        "dependencies": {
+          "AutoMapper": "9.0.0",
+          "AutoMapper.Extensions.Microsoft.DependencyInjection": "7.0.0",
+          "LB.Mis.Core": "1.0.0.5",
+          "Microsoft.AspNetCore.Http.Abstractions": "2.2.0"
+        },
+        "compile": {
+          "lib/netcoreapp3.1/MS.Cloud.AutoMapper.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/MS.Cloud.AutoMapper.dll": {}
+        }
+      },
       "LB.Execl/1.0.0": {
         "type": "package",
         "dependencies": {
@@ -238,6 +279,20 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "LB.Validation/1.0.0": {
+        "type": "package",
+        "dependencies": {
+          "FluentValidation.AspNetCore": "11.1.2",
+          "LB.Mis.Core": "1.0.0.5",
+          "Microsoft.AspNetCore.Mvc.Core": "2.2.5"
+        },
+        "compile": {
+          "lib/netcoreapp3.1/LB.Validation.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/LB.Validation.dll": {}
+        }
       },
       "Microsoft.AspNetCore.Authentication.Abstractions/2.2.0": {
         "type": "package",
@@ -418,7 +473,7 @@
           "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.Abstractions.dll": {}
         }
       },
-      "Microsoft.AspNetCore.Mvc.Core/2.2.0": {
+      "Microsoft.AspNetCore.Mvc.Core/2.2.5": {
         "type": "package",
         "dependencies": {
           "Microsoft.AspNetCore.Authentication.Core": "2.2.0",
@@ -3017,7 +3072,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
-          "FluentValidation": "11.1.0"
+          "FluentValidation": "11.1.0",
+          "LB.AutoMapper": "1.0.0.5"
         },
         "compile": {
           "bin/placeholder/LB.Appliation.dll": {}
@@ -3099,6 +3155,36 @@
         "lib/net5.0/AspectCore.Extensions.Reflection.dll",
         "lib/netstandard2.0/AspectCore.Extensions.Reflection.dll",
         "lib/netstandard2.1/AspectCore.Extensions.Reflection.dll"
+      ]
+    },
+    "AutoMapper/9.0.0": {
+      "sha512": "xCqvoxT4HIrNY/xlXG9W+BA/awdrhWvMTKTK/igkGSRbhOhpl3Q8O8Gxlhzjc9JsYqE7sS6AxgyuUUvZ6R5/Bw==",
+      "type": "package",
+      "path": "automapper/9.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "automapper.9.0.0.nupkg.sha512",
+        "automapper.nuspec",
+        "lib/net461/AutoMapper.dll",
+        "lib/net461/AutoMapper.pdb",
+        "lib/net461/AutoMapper.xml",
+        "lib/netstandard2.0/AutoMapper.dll",
+        "lib/netstandard2.0/AutoMapper.pdb",
+        "lib/netstandard2.0/AutoMapper.xml"
+      ]
+    },
+    "AutoMapper.Extensions.Microsoft.DependencyInjection/7.0.0": {
+      "sha512": "szI4yeRIM7GWe9JyekW0dKYehPB0t6M+I55fPeCebN6PhS7zQZa0eG3bgOnOx+eP3caSNoE7KEJs2rk7MLsh8w==",
+      "type": "package",
+      "path": "automapper.extensions.microsoft.dependencyinjection/7.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",
+        "automapper.extensions.microsoft.dependencyinjection.nuspec",
+        "lib/netstandard2.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll",
+        "lib/netstandard2.0/AutoMapper.Extensions.Microsoft.DependencyInjection.pdb"
       ]
     },
     "BouncyCastle.NetCore/1.8.3": {
@@ -3270,6 +3356,19 @@
         "nuget.exe"
       ]
     },
+    "LB.AutoMapper/1.0.0.5": {
+      "sha512": "EY9bOcAWWzf7y8Wq3vhn6dCJVXQB1YQlbvFd1i8nQBSqaYhxubSEUSVqOj32x0gKq2yZSD8LNgRtLg+ITFC24g==",
+      "type": "package",
+      "path": "lb.automapper/1.0.0.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lb.automapper.1.0.0.5.nupkg.sha512",
+        "lb.automapper.nuspec",
+        "lib/netcoreapp3.1/MS.Cloud.AutoMapper.dll",
+        "nuget.exe"
+      ]
+    },
     "LB.Execl/1.0.0": {
       "sha512": "58YGqVw5LqE3W9TDuIBCI3oLw1e6VD5L9USL9g7YiGDa5KGwJcpcLQl44VUOF/VCk1iwsqamksxHWeFCYC/zAg==",
       "type": "package",
@@ -3319,6 +3418,18 @@
         "lb.swagger.nuspec",
         "lib/netcoreapp3.1/MS.Cloud.Swagger.dll",
         "nuget.exe"
+      ]
+    },
+    "LB.Validation/1.0.0": {
+      "sha512": "vsLHZ5MgKFsljdlBFHsjE3DBvLHMhYbEjZFM3ZXTRl4CDXgdjC4nNB3Lc8eDIYHgzyWIC4Hn/8al0irg8xpdqg==",
+      "type": "package",
+      "path": "lb.validation/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lb.validation.1.0.0.nupkg.sha512",
+        "lb.validation.nuspec",
+        "lib/netcoreapp3.1/LB.Validation.dll"
       ]
     },
     "Microsoft.AspNetCore.Authentication.Abstractions/2.2.0": {
@@ -3490,16 +3601,16 @@
         "microsoft.aspnetcore.mvc.abstractions.nuspec"
       ]
     },
-    "Microsoft.AspNetCore.Mvc.Core/2.2.0": {
-      "sha512": "ALiY4a6BYsghw8PT5+VU593Kqp911U3w9f/dH9/ZoI3ezDsDAGiObqPu/HP1oXK80Ceu0XdQ3F0bx5AXBeuN/Q==",
+    "Microsoft.AspNetCore.Mvc.Core/2.2.5": {
+      "sha512": "/8sr8ixIUD57UFwUntha9bOwex7/AkZfdk1f9oNJG1Ek7p/uuKVa7fuHmYZpQOf35Oxrt+2Ku4WPwMSbNxOuWg==",
       "type": "package",
-      "path": "microsoft.aspnetcore.mvc.core/2.2.0",
+      "path": "microsoft.aspnetcore.mvc.core/2.2.5",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.Core.dll",
         "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.Core.xml",
-        "microsoft.aspnetcore.mvc.core.2.2.0.nupkg.sha512",
+        "microsoft.aspnetcore.mvc.core.2.2.5.nupkg.sha512",
         "microsoft.aspnetcore.mvc.core.nuspec"
       ]
     },
@@ -9065,7 +9176,8 @@
       "LB.AspNetCore >= 1.0.0.7",
       "LB.Execl >= 1.0.0",
       "LB.SqlSugarCore >= 1.0.9",
-      "LB.Swagger >= 1.0.0.3"
+      "LB.Swagger >= 1.0.0.3",
+      "LB.Validation >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -9129,6 +9241,10 @@
           "LB.Swagger": {
             "target": "Package",
             "version": "[1.0.0.3, )"
+          },
+          "LB.Validation": {
+            "target": "Package",
+            "version": "[1.0.0, )"
           }
         },
         "imports": [

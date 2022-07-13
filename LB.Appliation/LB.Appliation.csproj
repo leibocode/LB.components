@@ -6,6 +6,7 @@
 
   <ItemGroup>
     <PackageReference Include="FluentValidation" Version="11.1.0" />
+    <PackageReference Include="LB.AutoMapper" Version="1.0.0.5" />
   </ItemGroup>
 
 </Project>
